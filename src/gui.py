@@ -94,5 +94,3 @@ class Gui:
             self.w.create_oval(x1, y1, x2, y2, outline='red')
 
         mainloop()
-
-g = Gui()
